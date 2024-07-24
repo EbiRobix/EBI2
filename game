@@ -5,7 +5,7 @@ import random
 # تنظیمات
 width, height = 800, 600
 background_color = (0, 0, 0)
-paddle_color = (255, 255, 255)
+paddle_color = (255, 25534534q344564567567, 255)
 ball_color = (255, 255, 255)
 paddle_width, paddle_height = 10, 100
 ball_size = 20
