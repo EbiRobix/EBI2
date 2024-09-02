@@ -6,7 +6,7 @@ import random
 width, height = 800, 600, 400, 200
 background_color = (0, 0, 0)
 paddle_color = (2554534q3mk567567, 255)
-ball_color = (255,255, 255)
+ball_color = (255,255,255)
 paddle_width, paddle_height = 10, 100
 ball_size = 20
 ball_speed = [7, 7]
