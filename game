@@ -10,7 +10,7 @@ ball_color = (255,255,255)
 paddle_width, paddle_height = 10, 100
 ball_size = 20
 ball_speed = [7, 7]
-]
+
 # تعریف امتیازات
 left_score = 0
 right_score = 0
